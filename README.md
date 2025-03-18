@@ -46,6 +46,6 @@ I am a passionate **full-stack web developer** with a strong focus on backend te
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn] https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abel-sanchez-urrea-090b112ab/
+- 💼 [LinkedIn] https://www.linkedin.com/in/abel-sanchez-urrea-090b112ab/
 - 💻 [Portfolio] https://abelsanchezurrea.netlify.app/  
 - 📧 **Email**: abesandev@gmail.com  
