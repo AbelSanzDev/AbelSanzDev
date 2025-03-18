@@ -50,7 +50,3 @@ I am a passionate **full-stack web developer** with a strong focus on backend te
 - 💻 [Portfolio] https://abelsanchezurrea.netlify.app/  
 - 📧 **Email**: abesandev@gmail.com  
 
-
-
-
-<img src="https://raw.githubusercontent.com/abelsanzdev/maurodesouza/output/snake.svg" />
