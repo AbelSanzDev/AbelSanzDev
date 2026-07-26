@@ -1,1 +1,3 @@
-I don’t care that they stole my idea… I care that they don’t have any of their own.
+writing: In 100 Years, Nobody Will Care About You ✍️
+
+Life is short, so enjoy every moment and don’t be afraid to try new things.
